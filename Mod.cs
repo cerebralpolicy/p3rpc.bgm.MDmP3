@@ -39,8 +39,9 @@ public class Mod : ModBase
          * For example, right now the config has a "P4G" setting which enables "p4g.theme.pme" in the options folder.
          */
 
-        this.themeConfig.AddSetting(nameof(this.config.P4G), "p4g.theme.pme");
-
+        // this.themeConfig.AddSetting(nameof(this.config.MDmP3), "p4g.theme.pme");
+        this.themeConfig.AddSetting(nameof(this.config.MDmP3.battle), "diegetic-battle.theme.pme");
+        this.themeConfig.AddSetting(nameof(this.config.MDmP3.dungeon), "diegetic-exploration.theme.pme");
 
         /*-------------------------------------------------------*/
         this.themeConfig.Initialize();
@@ -67,9 +68,16 @@ public class Config : Configurable<Config>
 {
     /* ADD CONFIG SETTINGS HERE */
 
-    [Category("Persona 4 Golden")]
-    [DisplayName("Time To Make History / Reach Out To The Truth (Persona 4 Golden)")]
+    [Category("MDMp3 Config")]
+    [DisplayName("Diegetic Battle Themes")]
     [Description("Context dependent battle music from Persona 4 Golden. Normal\nbattles will play Time To Make History, while\nadvantage battles will play Reach Out To The Truth.\n\nBattle theme: Time To Make History\nAdvantage battle theme: Reach Out To The Truth\nVictory theme: Period")]
     [DefaultValue(true)]
-    public bool P4G { get; set; } = true;
+    public bool MDMp3_battle { get; set; } = true;
+
+
+    // [Category("Persona 4 Golden")]
+    // [DisplayName("Time To Make History / Reach Out To The Truth (Persona 4 Golden)")]
+    // [Description("Context dependent battle music from Persona 4 Golden. Normal\nbattles will play Time To Make History, while\nadvantage battles will play Reach Out To The Truth.\n\nBattle theme: Time To Make History\nAdvantage battle theme: Reach Out To The Truth\nVictory theme: Period")]
+    // [DefaultValue(true)]
+    // public bool P4G { get; set; } = true;
 }

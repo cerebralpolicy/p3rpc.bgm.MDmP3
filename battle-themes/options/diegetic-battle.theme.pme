@@ -1,0 +1,29 @@
+﻿// BATTLE SONG POOL
+const diegetic_battle_bgm = [
+    // WESTERN
+    // chevelle
+        diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight,
+    // linkin_park
+        diegetic-linkin_park-dont_stay, diegetic-linkin_park-hit_the_floor, diegetic-linkin_park-lying_from_you, diegetic-linkin_park-nobodys_listening, diegetic-linkin_park-one_step_closer, diegetic-linkin_park-papercut, diegetic-linkin_park-points_of_authority,
+    // papa_roach
+        diegetic-papa_roach-do_or_die, diegetic-papa_roach-getting_away_with_murder, diegetic-papa_roach-life_is_a_bullet, diegetic-papa_roach-she_loves_me_not,
+    // saosin
+        diegetic-saosin-changing, diegetic-saosin-i_keep_my_secrets, diegetic-saosin-seven_years, diegetic-saosin-translating_the_name,
+    // DOMESTIC
+    // coldrain
+        diegetic-coldrain-doors, diegetic-coldrain-final_destination, diegetic-coldrain-painting, diegetic-coldrain-someday, diegetic-coldrain-survive
+    ]
+
+// STATIC THEMES
+
+    const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
+    const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for regular victory
+
+// RANDOM SONG FOR NORMAL BATTLE
+    const BATTLE_THEME = battle_victory_set(random_song(diegetic_battle_bgm), diegetic_victory_bgm)
+
+// encounter
+encounter["Minibosses"]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
