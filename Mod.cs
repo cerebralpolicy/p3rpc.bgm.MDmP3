@@ -70,9 +70,13 @@ public class Config : Configurable<Config>
 
     [Category("MDMp3 Config")]
     [DisplayName("Diegetic Battle Themes")]
-    [Description("Context dependent battle music from Persona 4 Golden. Normal\nbattles will play Time To Make History, while\nadvantage battles will play Reach Out To The Truth.\n\nBattle theme: Time To Make History\nAdvantage battle theme: Reach Out To The Truth\nVictory theme: Period")]
+    [Description("Diegetic battle music.\n Normal battles will play a random track, while\nminiboss battles will play \"Forfeit\".\n\nBattle theme: Random\nAdvantage battle theme: \"Forfeit\" by Chevelle\nVictory theme: \"Cure For the Itch\" by Linkin Park")]
     [DefaultValue(true)]
-    public bool MDMp3_battle { get; set; } = true;
+    public bool MDMp3.battle { get; set; } = true;
+    [DisplayName("Diegetic Tartarus Themes")]
+    [Description("Random Tartarus background music.")]
+    [DefaultValue(true)]
+    public bool MDMp3.dungeon { get; set; } = true;
 
 
     // [Category("Persona 4 Golden")]
