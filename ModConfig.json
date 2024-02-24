@@ -6,15 +6,14 @@
   "ModDescription": "Diegetic music for P3R.",
   "ModDll": "BattleThemes.Template.dll",
   "ModIcon": "Preview.png",
-  "ModR2RManagedDll32": "x86/P3R.bgm.MakotoMP3.battle-themes.Template.dll",
-  "ModR2RManagedDll64": "x64/P3R.bgm.MakotoMP3.battle-themes.Template.dll",
+  "ModR2RManagedDll32": "x86/Battle-themes.Template.dll",
+  "ModR2RManagedDll64": "x64/Battle-themes.Template.dll",
   "ModNativeDll32": "",
   "ModNativeDll64": "",
   "Tags": [],
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "P3R.bgm.MakotoMP3.battle-themes.ReleaseMetadata.json",
   "ReleaseMetadataFileName": "P3R.bgm.MakotoMP3.battle-themes.ReleaseMetadata.json",
   "PluginData": {
     "GameBananaDependencies": {
