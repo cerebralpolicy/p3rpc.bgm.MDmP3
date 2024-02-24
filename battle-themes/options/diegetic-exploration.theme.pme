@@ -1,3 +1,19 @@
+// EXPLORATION SONG POOL
+const diegetic_exploration_bgm = [
+    // WESTERN
+    // chevelle
+        diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight,
+    // linkin_park
+        diegetic-linkin_park-dont_stay, diegetic-linkin_park-hit_the_floor, diegetic-linkin_park-lying_from_you, diegetic-linkin_park-nobodys_listening, diegetic-linkin_park-one_step_closer, diegetic-linkin_park-papercut, diegetic-linkin_park-points_of_authority,
+    // papa_roach
+        diegetic-papa_roach-do_or_die, diegetic-papa_roach-getting_away_with_murder, diegetic-papa_roach-life_is_a_bullet, diegetic-papa_roach-she_loves_me_not,
+    // saosin
+        diegetic-saosin-changing, diegetic-saosin-i_keep_my_secrets, diegetic-saosin-seven_years, diegetic-saosin-translating_the_name,
+    // DOMESTIC
+    // coldrain
+        diegetic-coldrain-counterfeits_and_lies, diegetic-coldrain-doors, diegetic-coldrain-final_destination, diegetic-coldrain-just_tonight, diegetic-coldrain-my_addiction, diegetic-coldrain-painting, diegetic-coldrain-someday, diegetic-coldrain-survive
+    ]
+
 const makoto_mp3 = random_song(diegetic_exploration_bgm)
 
 // TARTARUS EXPLORATION
