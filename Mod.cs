@@ -54,7 +54,6 @@ public class Mod : ModBase
         // ... your code here.
 
         config = configuration;
-        config.MDMp3
         log.WriteLine($"[{modConfig.ModId}] Config Updated: Applying");
     }
     #endregion
