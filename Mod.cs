@@ -54,6 +54,7 @@ public class Mod : ModBase
         // ... your code here.
 
         config = configuration;
+        config.MDMp3
         log.WriteLine($"[{modConfig.ModId}] Config Updated: Applying");
     }
     #endregion
@@ -70,7 +71,7 @@ public class Config : Configurable<Config>
     /* ADD CONFIG SETTINGS HERE */
 
     [Category("MDMp3 Config")]
-    
+    public class 
     [DisplayName("Diegetic Battle Themes")]
     [Description("Diegetic battle music.\n Normal battles will play a random track, while\nminiboss battles will play \"Forfeit\".\n\nBattle theme: Random\nAdvantage battle theme: \"Forfeit\" by Chevelle\nVictory theme: \"Cure For the Itch\" by Linkin Park")]
     [DefaultValue(true)]
