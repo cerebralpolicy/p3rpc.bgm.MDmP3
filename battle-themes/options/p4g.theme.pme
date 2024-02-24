@@ -1,2 +1,0 @@
-const p4g_bgm = battle_bgm(p4g_TimeToMakeHistory, p4_ReachOutToTheTruth)
-const BATTLE_THEME = battle_victory_set(p4g_bgm, p4_Period) // Persona 4 Golden
