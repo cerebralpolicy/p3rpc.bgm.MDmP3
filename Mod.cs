@@ -40,8 +40,8 @@ public class Mod : ModBase
          */
 
         // this.themeConfig.AddSetting(nameof(this.config.MDmP3), "p4g.theme.pme");
-        this.themeConfig.AddSetting(nameof(this.config.MDmP3.battle), "diegetic-battle.theme.pme");
-        this.themeConfig.AddSetting(nameof(this.config.MDmP3.dungeon), "diegetic-exploration.theme.pme");
+        this.themeConfig.AddSetting(nameof(this.config.MDmP3_battle), "diegetic-battle.theme.pme");
+        this.themeConfig.AddSetting(nameof(this.config.MDmP3_dungeon), "diegetic-exploration.theme.pme");
 
         /*-------------------------------------------------------*/
         this.themeConfig.Initialize();
@@ -72,11 +72,11 @@ public class Config : Configurable<Config>
     [DisplayName("Diegetic Battle Themes")]
     [Description("Diegetic battle music.\n Normal battles will play a random track, while\nminiboss battles will play \"Forfeit\".\n\nBattle theme: Random\nAdvantage battle theme: \"Forfeit\" by Chevelle\nVictory theme: \"Cure For the Itch\" by Linkin Park")]
     [DefaultValue(true)]
-    public bool MDMp3.battle { get; set; } = true;
+    public bool MDMp3_battle { get; set; } = true;
     [DisplayName("Diegetic Tartarus Themes")]
     [Description("Random Tartarus background music.")]
     [DefaultValue(true)]
-    public bool MDMp3.dungeon { get; set; } = true;
+    public bool MDMp3_dungeon { get; set; } = true;
 
 
     // [Category("Persona 4 Golden")]
