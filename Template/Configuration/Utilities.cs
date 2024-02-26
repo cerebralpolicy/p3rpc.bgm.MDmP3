@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace P3R.bgm.MakotMP3.battle-themes.Template.Template.Configuration
+namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template.Configuration
 {
     public class Utilities
     {

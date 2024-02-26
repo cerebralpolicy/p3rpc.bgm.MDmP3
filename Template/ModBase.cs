@@ -1,6 +1,6 @@
-﻿using P3R.bgm.MakotMP3.battle-themes.Template.Configuration;
+﻿using P3R.bgm.MakotoMP3.battlethemes.Template.Configuration;
 
-namespace P3R.bgm.MakotMP3.battle-themes.Template.Template
+namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template
 {
     /// <summary>
     /// Base class for implementing mod functionality.
