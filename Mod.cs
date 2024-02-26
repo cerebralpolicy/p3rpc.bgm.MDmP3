@@ -74,6 +74,7 @@ public class Config : Configurable<Config>
     [Description("Diegetic battle music.\n Normal battles will play a random track, while\nminiboss battles will play \"Forfeit\".\n\nBattle theme: Random\nAdvantage battle theme: \"Forfeit\" by Chevelle\nVictory theme: \"Cure For the Itch\" by Linkin Park")]
     [DefaultValue(true)]
     public bool MDmp3battle { get; set; } = true;
+    [Category("MDmp3 Config")]
     [DisplayName("Diegetic Tartarus Themes")]
     [Description("Random Tartarus background music.")]
     [DefaultValue(true)]
