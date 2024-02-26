@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleThemes.Template", "BattleThemes.Template.csproj", "{E43380BB-D7C8-402E-9265-C381883090EC}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes.Config", "submodules\BGME.BattleThemes\BGME.BattleThemes.Config\BGME.BattleThemes.Config.csproj", "{16359C38-BC98-4CE8-9E03-E4FD14D419F3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes.Interfaces", "submodules\BGME.BattleThemes\BGME.BattleThemes.Interfaces\BGME.BattleThemes.Interfaces.csproj", "{A7C5BB86-CE62-4222-B256-392B1173BD12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3R.bgm.MakotoMP3.battle-themes.Template", "P3R.bgm.MakotoMP3.battle-themes.Template.csproj", "{62C13D82-29F9-4F2D-8F08-F122A4297511}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E43380BB-D7C8-402E-9265-C381883090EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E43380BB-D7C8-402E-9265-C381883090EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E43380BB-D7C8-402E-9265-C381883090EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E43380BB-D7C8-402E-9265-C381883090EC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{16359C38-BC98-4CE8-9E03-E4FD14D419F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{16359C38-BC98-4CE8-9E03-E4FD14D419F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16359C38-BC98-4CE8-9E03-E4FD14D419F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{A7C5BB86-CE62-4222-B256-392B1173BD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7C5BB86-CE62-4222-B256-392B1173BD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7C5BB86-CE62-4222-B256-392B1173BD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
