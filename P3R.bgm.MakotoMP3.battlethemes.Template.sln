@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes.Config", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes.Interfaces", "submodules\BGME.BattleThemes\BGME.BattleThemes.Interfaces\BGME.BattleThemes.Interfaces.csproj", "{A7C5BB86-CE62-4222-B256-392B1173BD12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3R.bgm.MakotoMP3.battle-themes.Template", "P3R.bgm.MakotoMP3.battle-themes.Template.csproj", "{62C13D82-29F9-4F2D-8F08-F122A4297511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3R.bgm.MakotoMP3.battlethemes.Template", "P3R.bgm.MakotoMP3.battlethemes.Template.csproj", "{62C13D82-29F9-4F2D-8F08-F122A4297511}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
