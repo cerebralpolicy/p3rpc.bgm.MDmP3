@@ -1,11 +1,11 @@
-﻿using BattleThemes.Template.Template;
-using BattleThemes.Template.Template.Configuration;
+﻿using P3R.bgm.MakotMP3.battle-themes.Template.Template;
+using P3R.bgm.MakotMP3.battle-themes.Template.Template.Configuration;
 using BGME.BattleThemes.Config;
 using Reloaded.Hooks.ReloadedII.Interfaces;
 using Reloaded.Mod.Interfaces;
 using System.ComponentModel;
 
-namespace BattleThemes.Template;
+namespace P3R.bgm.MakotMP3.battle-themes.Template;
 
 public class Mod : ModBase
 {

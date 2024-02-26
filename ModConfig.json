@@ -4,10 +4,10 @@
   "ModAuthor": "cerebralpolicy",
   "ModVersion": "0.2.1",
   "ModDescription": "Diegetic music for P3R.",
-  "ModDll": "BattleThemes.Template.dll",
+  "ModDll": "P3R.bgm.MakotMP3.battle-themes.Template.dll",
   "ModIcon": "Logo.png",
-  "ModR2RManagedDll32": "x86/Battle-themes.Template.dll",
-  "ModR2RManagedDll64": "x64/Battle-themes.Template.dll",
+  "ModR2RManagedDll32": "x86/P3R.bgm.MakotMP3.battle-themes.Template.dll",
+  "ModR2RManagedDll64": "x64/P3R.bgm.MakotMP3.battle-themes.Template.dll",
   "ModNativeDll32": "",
   "ModNativeDll64": "",
   "Tags": [],
@@ -116,6 +116,6 @@
     "p3rpc.essentials"
   ],
   "OptionalDependencies": [],
-  "SupportedAppId": ["p5r.exe", "p4g.exe", "p3p.exe", "p3r.exe"],
+  "SupportedAppId": [ "p5r.exe", "p4g.exe", "p3p.exe", "p3r.exe" ],
   "ProjectUrl": ""
 }

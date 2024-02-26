@@ -1,7 +1,7 @@
-﻿using BattleThemes.Template.Configuration;
+﻿using P3R.bgm.MakotMP3.battle-themes.Template.Configuration;
 using Reloaded.Mod.Interfaces;
 
-namespace BattleThemes.Template.Template.Configuration
+namespace P3R.bgm.MakotMP3.battle-themes.Template.Template.Configuration
 {
     public class Configurator : IConfiguratorV3
     {
