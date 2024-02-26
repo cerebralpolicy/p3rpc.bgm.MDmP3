@@ -162,23 +162,23 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "BattleThemes.Template.csproj",
-    $PackageName = "BattleThemes.Template",
+    $ProjectPath = "P3R.bgm.MakotoMP3.battle-themes.csproj",
+    $PackageName = "P3R.bgm.MakotoMP3.battle-themes",
     $PublishOutputDir = "Publish/ToUpload",
 
     ## => User: Delta Config
     # Pick one and configure settings below.
-    $MetadataFileName = "Sewer56.Update.ReleaseMetadata.json",
+    $MetadataFileName = "P3R.bgm.MakotoMP3.battle-themes.ReleaseMetadata.json",
     $UseGitHubDelta = $False, # GitHub Releases
     $UseGameBananaDelta = $False,
     $UseNuGetDelta = $False,
 
-    $GitHubUserName = "", # Name of the GitHub user where the mod is contained
-    $GitHubRepoName = "", # Name of the GitHub repo where the mod is contained
+    $GitHubUserName = "coleymoley98", # Name of the GitHub user where the mod is contained
+    $GitHubRepoName = "P3R.bgm.MakotoMP3.battle-themes", # Name of the GitHub repo where the mod is contained
     $GitHubFallbackPattern = "", # For migrating from legacy build script.
     $GitHubInheritVersionFromTag = $True, # Uses version determined from release tag as opposed to metadata file in latest release.
 
-    $GameBananaItemId = 333681, # From mod page URL.
+    $GameBananaItemId = , # From mod page URL.
 
     $NuGetPackageId = "BattleThemes.Template",
     $NuGetFeedUrl = "http://packages.sewer56.moe:5000/v3/index.json",
