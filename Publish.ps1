@@ -162,7 +162,7 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "P3R.bgm.MakotoMP3.battle-themes.csproj",
+    $ProjectPath = "P3R.bgm.MakotoMP3.battle-themes.Template.csproj",
     $PackageName = "P3R.bgm.MakotoMP3.battle-themes",
     $PublishOutputDir = "Publish/ToUpload",
 
