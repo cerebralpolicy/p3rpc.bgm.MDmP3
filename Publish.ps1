@@ -178,7 +178,7 @@ param (
     $GitHubFallbackPattern = "", # For migrating from legacy build script.
     $GitHubInheritVersionFromTag = $True, # Uses version determined from release tag as opposed to metadata file in latest release.
 
-    $GameBananaItemId = , # From mod page URL.
+    $GameBananaItemId = 82861 # From mod page URL.
 
     $NuGetPackageId = "BattleThemes.Template",
     $NuGetFeedUrl = "http://packages.sewer56.moe:5000/v3/index.json",
