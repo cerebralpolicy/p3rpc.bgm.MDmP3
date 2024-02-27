@@ -168,7 +168,7 @@ param (
 
     ## => User: Delta Config
     # Pick one and configure settings below.
-    $MetadataFileName = "P3R.bgm.MakotoMP3.battle-themes.ReleaseMetadata.json",
+    $MetadataFileName = "P3R.bgm.MakotoMP3.battlethemes.ReleaseMetadata.json",
     $UseGitHubDelta = $False, # GitHub Releases
     $UseGameBananaDelta = $False,
     $UseNuGetDelta = $False,

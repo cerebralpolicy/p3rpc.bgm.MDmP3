@@ -14,11 +14,6 @@ const diegetic_exploration_bgm = [
         diegetic-coldrain-counterfeits_and_lies, diegetic-coldrain-doors, diegetic-coldrain-final_destination, diegetic-coldrain-just_tonight, diegetic-coldrain-my_addiction, diegetic-coldrain-painting, diegetic-coldrain-someday, diegetic-coldrain-survive
     ]
 
-// STATIC
-    const diegetic_battle_bgm = theme_0
-    const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
-    const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for regular victory
-
 // RANDOM SONG FOR NORMAL BATTLE
     const BATTLE_THEME = battle_victory_set(random_song(diegetic_battle_bgm), diegetic_victory_bgm)
 
