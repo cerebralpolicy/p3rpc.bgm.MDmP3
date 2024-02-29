@@ -40,3 +40,7 @@ const makoto_mp3 = random_song(diegetic_exploration_bgm)
     global_bgm["tartarus_0d05"]:
         music = makoto_mp3
     end
+    // HARABAH
+    global_bgm["tartarus_0d06 (Tartarus)"]:
+        music = makoto_mp3
+    end
