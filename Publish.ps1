@@ -185,8 +185,8 @@ param (
     $NuGetAllowUnlisted = $False,
 
     ## => User: Publish Config
-    $PublishGeneric    = $True,
-    $PublishNuGet      = $True,
+    $PublishGeneric    = $False,
+    $PublishNuGet      = $False,
     $PublishGameBanana = $True
 )
 

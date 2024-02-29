@@ -44,3 +44,8 @@ const makoto_mp3 = random_song(diegetic_exploration_bgm)
     global_bgm["tartarus_0d06 (Tartarus)"]:
         music = makoto_mp3
     end
+
+    //boss_levels
+    global_bgm["Deep Breath, Deep Breath -Reload-"]:
+        music = diegetic_miniboss_bgm
+    end
