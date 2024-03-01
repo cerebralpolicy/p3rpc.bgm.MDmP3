@@ -28,6 +28,10 @@ encounter["Minibosses"]:
     music = diegetic_miniboss_bgm
     victory_music = diegetic_miniboss_bgm
 end
+encounter["Full Moon Normal"]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
 encounter["Full Moon Bosses"]:
     music = diegetic_full_moon_boss_bgm
     victory_music = diegetic_full_moon_boss_bgm
