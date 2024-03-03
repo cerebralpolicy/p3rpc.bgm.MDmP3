@@ -75,7 +75,7 @@
     <Content Include="battle-themes\music\**">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="battle-themes\BGME\**">
+    <Content Include="BGME\**">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

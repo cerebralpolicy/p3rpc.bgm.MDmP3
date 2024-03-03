@@ -2,7 +2,7 @@
   "ModId": "P3R.bgm.MakotoMP3.battle-themes",
   "ModName": "P3R Makoto\u0027s Diegetic MP3 Player",
   "ModAuthor": "cerebralpolicy",
-  "ModVersion": "0.2.3",
+  "ModVersion": "0.2.4",
   "ModDescription": "Diegetic music for P3R.",
   "ModDll": "P3R.bgm.MakotoMP3.battlethemes.Template.dll",
   "ModIcon": "Logo.png",
