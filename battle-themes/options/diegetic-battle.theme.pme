@@ -1,17 +1,65 @@
 ﻿// BATTLE SONG POOL
-const diegetic_battle_bgm = [
+const diegetic_battle_pool = [
     // WESTERN
     // chevelle
         diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight,
-    // linkin_park
-        diegetic-linkin_park-dont_stay, diegetic-linkin_park-hit_the_floor, diegetic-linkin_park-lying_from_you, diegetic-linkin_park-nobodys_listening, diegetic-linkin_park-one_step_closer, diegetic-linkin_park-papercut, diegetic-linkin_park-points_of_authority,
+    // institute
+        diegetic-institute-bulletproof_skin, diegetic-institute-the_art_of_walking,
+    // linkin_park - advantage diegetic-linkin_park-hit_the_floor,
+        diegetic-linkin_park-dont_stay, diegetic-linkin_park-lying_from_you, diegetic-linkin_park-nobodys_listening, diegetic-linkin_park-papercut, diegetic-linkin_park-points_of_authority,
     // papa_roach
-        diegetic-papa_roach-do_or_die, diegetic-papa_roach-getting_away_with_murder, diegetic-papa_roach-life_is_a_bullet, diegetic-papa_roach-she_loves_me_not,
+        diegetic-papa_roach-do_or_die, diegetic-papa_roach-life_is_a_bullet,
+    // revis - advantage diegetic-revis-your_wall,
+        diegetic-revis-straight_jacket_labels,
     // saosin
-        diegetic-saosin-changing, diegetic-saosin-i_keep_my_secrets, diegetic-saosin-seven_years, diegetic-saosin-translating_the_name,
+        diegetic-saosin-i_keep_my_secrets, diegetic-saosin-seven_years,
+    // three days grace
+        diegetic-three_days_grace-drown, diegetic-three_days_grace-scared,
     // DOMESTIC
     // coldrain
-        diegetic-coldrain-doors, diegetic-coldrain-final_destination, diegetic-coldrain-painting, diegetic-coldrain-someday, diegetic-coldrain-survive
+        diegetic-coldrain-doors, diegetic-coldrain-painting, diegetic-coldrain-someday
+    ]
+
+// ADVANTAGE SONG POOL
+    const diegetic_advantage_pool = [
+        // WESTERN
+        // chevelle - exclusive
+        diegetic-chevelle-the_fad,
+        // institute - duplicate
+        diegetic-institute-bulletproof_skin,
+        // linkin_park - exclusive
+        diegetic-linkin_park-hit_the_floor,
+        // papa_roach - exclusive
+        diegetic-papa_roach-getting_away_with_murder,
+        // saosin - exclusive
+        diegetic-saosin-changing,
+        // three days grace - exclusive
+        diegetic-three_days_grace-burn,
+        // DOMESTIC
+        // coldrain - exclusive
+        diegetic-coldrain-final_destination
+    ]
+
+    // DISADVANTAGE SONG POOL
+    const diegetic_disadvantage_pool = [
+        // WESTERN
+        // chevelle - exclusive
+        diegetic-chevelle-this_circus,
+        // institute - exclusive
+        diegetic-institute-when_animals_attack,
+        // linkin_park - exclusive
+        diegetic-linkin_park-one_step_closer,
+        // papa_roach - exclusive
+        diegetic-papa_roach-she_loves_me_not,
+        // revis - duplicate
+        diegetic-revis-your_wall,
+        // saosin - exclusive
+        diegetic-saosin-translating_the_name,
+        // three days grace - exclusive
+        diegetic-three_days_grace-scared,
+        // DOMESTIC
+        // coldrain - exclusive
+        diegetic-coldrain-survive
     ]
 
 // STATIC THEMES
@@ -19,9 +67,12 @@ const diegetic_battle_bgm = [
     const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
     const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
     const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for regular victory
-
-// RANDOM SONG FOR NORMAL BATTLE
-    const BATTLE_THEME = battle_victory_set(random_song(diegetic_battle_bgm), diegetic_victory_bgm)
+    // RANDOM SONGS
+    const diegetic_battle_bgm = random_song(diegetic_battle_pool) // USED IN REGULAR ENCOUNTERS
+    const diegetic_advantage_bgm = random_song(diegetic_advantage_pool) // ADVANTAGE ENCOUNTERS
+    const diegetic_disadvantage_bgm = random_song(diegetic_disadvantage_pool) //DISADVANTAGE ENCOUNTERS
+    const diegetic_battle_bgm_cats = battle_bgm(diegetic_battle_bgm, diegetic_advantage_bgm, diegetic_disadvantage_bgm)
+    const BATTLE_THEME = battle_victory_set(diegetic_battle_bgm_cats, diegetic_victory_bgm)
 
 // encounter
 encounter["Minibosses"]:
