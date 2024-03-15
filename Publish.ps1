@@ -170,7 +170,7 @@ param (
     # Pick one and configure settings below.
     $MetadataFileName = "P3R.bgm.MakotoMP3.battlethemes.ReleaseMetadata.json",
     $UseGitHubDelta = $False, # GitHub Releases
-    $UseGameBananaDelta = $False,
+    $UseGameBananaDelta = $True,
     $UseNuGetDelta = $False,
 
     $GitHubUserName = "coleymoley98", # Name of the GitHub user where the mod is contained

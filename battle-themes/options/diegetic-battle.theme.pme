@@ -63,9 +63,6 @@ const diegetic_battle_pool = [
     ]
 
 // STATIC THEMES
-
-    const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
-    const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
     const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for regular victory
     // RANDOM SONGS
     const diegetic_battle_bgm = random_song(diegetic_battle_pool) // USED IN REGULAR ENCOUNTERS
@@ -73,29 +70,3 @@ const diegetic_battle_pool = [
     const diegetic_disadvantage_bgm = random_song(diegetic_disadvantage_pool) //DISADVANTAGE ENCOUNTERS
     const diegetic_battle_bgm_cats = battle_bgm(diegetic_battle_bgm, diegetic_advantage_bgm, diegetic_disadvantage_bgm)
     const BATTLE_THEME = battle_victory_set(diegetic_battle_bgm_cats, diegetic_victory_bgm)
-
-// encounter
-encounter["Minibosses"]:
-    music = diegetic_miniboss_bgm
-    victory_music = diegetic_miniboss_bgm
-end
-encounter[760]:
-    music = diegetic_miniboss_bgm
-    victory_music = diegetic_miniboss_bgm
-end
-encounter[761]:
-    music = diegetic_miniboss_bgm
-    victory_music = diegetic_miniboss_bgm
-end
-encounter[762]:
-    music = diegetic_miniboss_bgm
-    victory_music = diegetic_miniboss_bgm
-end
-encounter[763]:
-    music = diegetic_miniboss_bgm
-    victory_music = diegetic_miniboss_bgm
-end
-encounter["Full Moon Bosses"]:
-    music = diegetic_full_moon_boss_bgm
-    victory_music = diegetic_full_moon_boss_bgm
-end
