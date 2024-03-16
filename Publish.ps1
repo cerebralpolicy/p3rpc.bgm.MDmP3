@@ -163,7 +163,7 @@ param (
 
     ## => User Config <= ## 
     $ProjectPath = "P3R.bgm.MakotoMP3.battlethemes.Template.csproj",
-    $PackageName = "P3R.bgm.MakotoMP3.battlethemes",
+    $PackageName = "P3R.bgm.MakotoMP3.battlethemes.special",
     $PublishOutputDir = "Publish/ToUpload",
 
     ## => User: Delta Config
