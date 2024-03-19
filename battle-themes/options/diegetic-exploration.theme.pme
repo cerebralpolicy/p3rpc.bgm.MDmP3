@@ -2,7 +2,7 @@
 const diegetic_exploration_bgm = [
     // WESTERN
     // chevelle
-        diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight, diegetic-chevelle-this_circus
+        diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight, diegetic-chevelle-this_circus,
     // institute
         diegetic-institute-bulletproof_skin, diegetic-institute-the_art_of_walking, diegetic-institute-when_animals_attack,
     // linkin_park

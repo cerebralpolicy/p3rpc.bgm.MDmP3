@@ -3,6 +3,8 @@
 
     const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
     const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
+    const diegetic_love_hotel_bgm = diegetic-massive_attack-dissolved_girl // Used for monthly bosses
+    const diegetic_military_base_bgm = diegetic-the_mayan_factor-warflower
     const diegetic_yukari_theme_bgm = diegetic-flyleaf-all_around_me
     const diegetic_chidori_theme_bgm = diegetic-flyleaf-im_so_sick
     // const diegetic_reaper_theme_bgm = diegetic-johnny_cash-gods_gonna_cut_you_down
@@ -12,15 +14,37 @@
 global_bgm["Deep Breath, Deep Breath -Reload-"]:
     music = diegetic_miniboss_bgm
 end
+global_bgm["Deep Mentality -Reload-"]:
+    music = diegetic_love_hotel_bgm
+end
+global_bgm["Basement"]:
+    music = diegetic_military_base_bgm
+end
 
 // ENCOUNTERS
 encounter["Minibosses"]:
     music = diegetic_miniboss_bgm
     victory_music = diegetic_miniboss_bgm
 end
+encounter[715]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
 encounter[716]:
     music = diegetic_chidori_theme_bgm
     victory_music = diegetic_chidori_theme_bgm
+end
+encounter[717]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[718]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[719]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
 end
 encounter[735]:
     music = diegetic_yukari_theme_bgm
