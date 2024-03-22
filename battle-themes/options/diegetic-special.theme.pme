@@ -4,7 +4,9 @@
     const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
     const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
     const diegetic_love_hotel_bgm = diegetic-massive_attack-dissolved_girl // Used for monthly bosses
+    const diegetic_love_hotel_inst_bgm = diegetic-massive_attack-dissolved_girl_inst // Used for monthly bosses
     const diegetic_military_base_bgm = diegetic-the_mayan_factor-warflower
+    const diegetic_club_escapade_bgm = diegetic-rob_dougan-clubbed_to_death_2
     const diegetic_yukari_theme_bgm = diegetic-flyleaf-all_around_me
     const diegetic_chidori_theme_bgm = diegetic-flyleaf-im_so_sick
     // const diegetic_reaper_theme_bgm = diegetic-johnny_cash-gods_gonna_cut_you_down
@@ -15,7 +17,7 @@ global_bgm["Deep Breath, Deep Breath -Reload-"]:
     music = diegetic_miniboss_bgm
 end
 global_bgm["Deep Mentality -Reload-"]:
-    music = diegetic_love_hotel_bgm
+    music = diegetic_love_hotel_inst_bgm
 end
 global_bgm["Basement"]:
     music = diegetic_military_base_bgm
@@ -66,7 +68,115 @@ encounter[763]:
     music = diegetic_miniboss_bgm
     victory_music = diegetic_miniboss_bgm
 end
-encounter["Full Moon Bosses"]:
+encounter[774]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[775]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[776]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[777]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[778]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[779]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[780]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[781]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[782]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[783]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[784]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[785]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[786]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[787]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[788]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[789]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[790]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[791]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[792]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[793]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[794]:
+    music = diegetic_miniboss_bgm
+    victory_music = diegetic_miniboss_bgm
+end
+encounter[701]:
+    music = diegetic_full_moon_boss_bgm
+    victory_music = diegetic_full_moon_boss_bgm
+end
+encounter[702]:
+    music = diegetic_full_moon_boss_bgm
+    victory_music = diegetic_full_moon_boss_bgm
+end
+encounter[703]:
+    music = diegetic_full_moon_boss_bgm
+    victory_music = diegetic_full_moon_boss_bgm
+end
+encounter[704]:
+    music = diegetic_love_hotel_bgm
+    victory_music = diegetic_love_hotel_bgm
+end
+encounter[705]:
+    music = diegetic_full_moon_boss_bgm
+    victory_music = diegetic_full_moon_boss_bgm
+end
+encounter[706]:
+    music = diegetic_club_escapade_bgm
+    victory_music = diegetic_club_escapade_bgm
+end
+encounter[707]:
     music = diegetic_full_moon_boss_bgm
     victory_music = diegetic_full_moon_boss_bgm
 end
