@@ -1,0 +1,27 @@
+﻿const makoto_mp3 = random_song(diegetic_exploration_bgm)
+
+// TARTARUS EXPLORATION
+    // THEBEL
+    global_bgm["tartarus_0d01"]:
+        music = makoto_mp3
+    end
+    // ARQA
+    global_bgm["tartarus_0d02"]:
+        music = makoto_mp3
+    end
+    // YABBASHAH
+    global_bgm["tartarus_0d03"]:
+        music = makoto_mp3
+    end
+    // TZIAH
+    global_bgm["tartarus_0d04"]:
+        music = makoto_mp3
+    end
+    // HARABAH
+    global_bgm["tartarus_0d05"]:
+        music = makoto_mp3
+    end
+    // HARABAH
+    global_bgm["tartarus_0d06 (Tartarus)"]:
+        music = makoto_mp3
+    end

@@ -40,9 +40,10 @@ public class Mod : ModBase
          */
 
         // this.themeConfig.AddSetting(nameof(this.config.MDmP3), "p4g.theme.pme");
-        this.themeConfig.AddSetting(nameof(this.config.MDmp3battle), "diegetic-battle.theme.pme");
-        this.themeConfig.AddSetting(nameof(this.config.MDmp3dungeon), "diegetic-exploration.theme.pme");
-        this.themeConfig.AddSetting(nameof(this.config.MDmp3special), "diegetic-special.theme.pme");
+        this.themeConfig.AddSetting(nameof(this.config.MDmp3battle), "battleTheme.playlist.pme","combat");
+        this.themeConfig.AddSetting(nameof(this.config.MDmp3dungeon), "explorationMusic.playlist.pme", "exploration");
+        this.themeConfig.AddSetting(nameof(this.config.MDmp3boss), "bossMusic.playlist.pme", "special");
+        this.themeConfig.AddSetting(nameof(this.config.MDmp3menu), "menuMusic.playlist.pme", "special");
 
         /*-------------------------------------------------------*/
         this.themeConfig.Initialize();
@@ -84,7 +85,12 @@ public class Config : Configurable<Config>
     [DisplayName("Diegetic Special Themes")]
     [Description("Curated contextual tracks.")]
     [DefaultValue(true)]
-    public bool MDmp3special { get; set; } = true;
+    public bool MDmp3boss { get; set; } = true;
+    [Category("MDmp3 Config")]
+    [DisplayName("Diegetic Special Themes")]
+    [Description("Curated contextual tracks.")]
+    [DefaultValue(true)]
+    public bool MDmp3menu { get; set; } = true;
 
 
     // [Category("Persona 4 Golden")]

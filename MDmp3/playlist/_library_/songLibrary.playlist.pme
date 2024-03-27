@@ -40,8 +40,8 @@ const diegetic_battle_pool = [
         diegetic-coldrain-final_destination
     ]
 
-    // DISADVANTAGE SONG POOL
-    const diegetic_disadvantage_pool = [
+// DISADVANTAGE SONG POOL
+const diegetic_disadvantage_pool = [
         // WESTERN
         // chevelle - exclusive
         diegetic-chevelle-this_circus,
@@ -62,6 +62,28 @@ const diegetic_battle_pool = [
         diegetic-coldrain-survive
     ]
 
+// EXPLORATION SONG POOL
+const diegetic_exploration_bgm = [
+        // WESTERN
+        // chevelle
+        diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight, diegetic-chevelle-this_circus,
+        // institute
+        diegetic-institute-bulletproof_skin, diegetic-institute-the_art_of_walking, diegetic-institute-when_animals_attack,
+        // linkin_park
+        diegetic-linkin_park-dont_stay, diegetic-linkin_park-hit_the_floor, diegetic-linkin_park-lying_from_you, diegetic-linkin_park-nobodys_listening, diegetic-linkin_park-one_step_closer, diegetic-linkin_park-papercut, diegetic-linkin_park-points_of_authority,
+        // papa_roach
+        diegetic-papa_roach-do_or_die, diegetic-papa_roach-getting_away_with_murder, diegetic-papa_roach-life_is_a_bullet, diegetic-papa_roach-she_loves_me_not,
+        // revis
+        diegetic-revis-spin, diegetic-revis-straight_jacket_labels, diegetic-revis-your_wall,
+        // saosin
+        diegetic-saosin-changing, diegetic-saosin-i_keep_my_secrets, diegetic-saosin-seven_years, diegetic-saosin-translating_the_name,
+        // three days grace
+        diegetic-three_days_grace-burn, diegetic-three_days_grace-drown, diegetic-three_days_grace-let_you_down, diegetic-three_days_grace-scared,
+        // DOMESTIC
+        // coldrain
+        diegetic-coldrain-counterfeits_and_lies, diegetic-coldrain-doors, diegetic-coldrain-final_destination, diegetic-coldrain-just_tonight, diegetic-coldrain-my_addiction, diegetic-coldrain-painting, diegetic-coldrain-someday, diegetic-coldrain-survive
+    ]
+
 // STATIC THEMES
     const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for regular victory
     // RANDOM SONGS
@@ -69,4 +91,16 @@ const diegetic_battle_pool = [
     const diegetic_advantage_bgm = random_song(diegetic_advantage_pool) // ADVANTAGE ENCOUNTERS
     const diegetic_disadvantage_bgm = random_song(diegetic_disadvantage_pool) //DISADVANTAGE ENCOUNTERS
     const diegetic_battle_bgm_cats = battle_bgm(diegetic_battle_bgm, diegetic_advantage_bgm, diegetic_disadvantage_bgm)
-    const BATTLE_THEME = battle_victory_set(diegetic_battle_bgm_cats, diegetic_victory_bgm)
+    const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
+    const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
+    const diegetic_love_hotel_bgm = diegetic-massive_attack-dissolved_girl // Used for monthly bosses
+    const diegetic_love_hotel_inst_bgm = diegetic-massive_attack-dissolved_girl_inst // Used for monthly bosses
+    const diegetic_military_base_bgm = diegetic-the_mayan_factor-warflower
+    const diegetic_club_escapade_bgm = diegetic-rob_dougan-clubbed_to_death_2
+    const diegetic_train_station_bgm = diegetic-ashes_divide-sword
+    const diegetic_checkmate_bgm = diegetic-rob_dougan-clubbed_to_death_kurayamino
+    const diegetic_yukari_theme_bgm = diegetic-flyleaf-all_around_me
+    const diegetic_chidori_theme_bgm = diegetic-flyleaf-im_so_sick
+    // const diegetic_reaper_theme_bgm = diegetic-johnny_cash-gods_gonna_cut_you_down
+    const diegetic_ngplus_menu_bgm = diegetic-ashes_divide-forever_can_be-MENU
+    const diegetic_regular_menu_bgm = diegetic-ashes_divide-sword-MENU

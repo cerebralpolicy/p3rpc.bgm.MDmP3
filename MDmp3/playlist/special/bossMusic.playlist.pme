@@ -1,20 +1,4 @@
-﻿// GLOBAL DEFINES
-    const BATTLE_THEME = battle_victory_set(diegetic_battle_bgm_cats, diegetic_victory_bgm)
-
-    const diegetic_miniboss_bgm = diegetic-chevelle-forfeit // Used for minibosses
-    const diegetic_full_moon_boss_bgm = diegetic-chevelle-get_some // Used for monthly bosses
-    const diegetic_love_hotel_bgm = diegetic-massive_attack-dissolved_girl // Used for monthly bosses
-    const diegetic_love_hotel_inst_bgm = diegetic-massive_attack-dissolved_girl_inst // Used for monthly bosses
-    const diegetic_military_base_bgm = diegetic-the_mayan_factor-warflower
-    const diegetic_club_escapade_bgm = diegetic-rob_dougan-clubbed_to_death_2
-    const diegetic_train_station_bgm = diegetic-ashes_divide-sword
-    const diegetic_checkmate_bgm = diegetic-rob_dougan-clubbed_to_death_kurayamino
-    const diegetic_yukari_theme_bgm = diegetic-flyleaf-all_around_me
-    const diegetic_chidori_theme_bgm = diegetic-flyleaf-im_so_sick
-    // const diegetic_reaper_theme_bgm = diegetic-johnny_cash-gods_gonna_cut_you_down
-    const diegetic_ngplus_menu_bgm = diegetic-ashes_divide-forever_can_be-MENU
-    const diegetic_regular_menu_bgm = diegetic-ashes_divide-sword-MENU
-
+﻿
 //boss_levels
 global_bgm["Deep Breath, Deep Breath -Reload-"]:
     music = diegetic_miniboss_bgm
@@ -24,9 +8,6 @@ global_bgm["Deep Mentality -Reload-"]:
 end
 global_bgm["Basement"]:
     music = diegetic_military_base_bgm
-end
-global_bgm[98]:
-    music = diegetic_ngplus_menu_bgm
 end
 
 // ENCOUNTERS

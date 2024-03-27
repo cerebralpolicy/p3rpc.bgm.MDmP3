@@ -1,0 +1,1 @@
+﻿const BATTLE_THEME = battle_victory_set(diegetic_battle_bgm_cats, diegetic_victory_bgm)
