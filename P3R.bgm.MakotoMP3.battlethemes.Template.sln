@@ -9,6 +9,24 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes.Interface
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3R.bgm.MakotoMP3.battlethemes.Template", "P3R.bgm.MakotoMP3.battlethemes.Template.csproj", "{62C13D82-29F9-4F2D-8F08-F122A4297511}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unreal.AtlusScript.Interfaces", "submodules\Unreal.AtlusScript\Unreal.AtlusScript.Interfaces\Unreal.AtlusScript.Interfaces.csproj", "{01FFC573-CA8A-45C5-A8B9-C5F40F07B293}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unreal.AtlusScript.Reloaded", "submodules\Unreal.AtlusScript\Unreal.AtlusScript.Reloaded\Unreal.AtlusScript.Reloaded.csproj", "{741B07CB-28A1-48B9-9C71-89E7515474FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlusScriptLibrary", "submodules\Unreal.AtlusScript\submodules\Atlus-Script-Tools\Source\AtlusScriptLibrary\AtlusScriptLibrary.csproj", "{62EE486F-AE33-4DBB-AC4C-409A22CB04AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unreal.ObjectsEmitter.Interfaces", "submodules\Unreal.AtlusScript\submodules\Unreal.ObjectsEmitter\Unreal.ObjectsEmitter.Interfaces\Unreal.ObjectsEmitter.Interfaces.csproj", "{45425A58-2168-4B77-B428-853C67DE2C4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Utils", "submodules\Unreal.AtlusScript\submodules\Project.Utils\Project.Utils.csproj", "{C480F4AD-AA25-4685-A728-36F7B9A26D01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.BattleThemes", "submodules\BGME.BattleThemes\BGME.BattleThemes\BGME.BattleThemes.csproj", "{31B51955-2FB7-47A4-A3D7-B9442CC290E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phos.MusicManager.Library", "submodules\BGME.BattleThemes\submodules\phos-music-manager\Phos.MusicManager.Library\Phos.MusicManager.Library.csproj", "{146E70AF-5FC2-4D2F-A007-49A188387204}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGME.Framework.Interfaces", "submodules\BGME.BattleThemes\submodules\BGME\BGME.Framework.Interfaces\BGME.Framework.Interfaces.csproj", "{AC1919A9-C603-487B-95BC-7BC5E0D095F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonaModdingMetadata.Shared", "submodules\BGME.BattleThemes\submodules\BGME\submodules\PersonaModdingMetadata\PersonaModdingMetadata.Shared\PersonaModdingMetadata.Shared.csproj", "{2C9E0875-9C4C-41BA-A4F7-EEB32B0D93DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +45,42 @@ Global
 		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C13D82-29F9-4F2D-8F08-F122A4297511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FFC573-CA8A-45C5-A8B9-C5F40F07B293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FFC573-CA8A-45C5-A8B9-C5F40F07B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FFC573-CA8A-45C5-A8B9-C5F40F07B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FFC573-CA8A-45C5-A8B9-C5F40F07B293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B07CB-28A1-48B9-9C71-89E7515474FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B07CB-28A1-48B9-9C71-89E7515474FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B07CB-28A1-48B9-9C71-89E7515474FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B07CB-28A1-48B9-9C71-89E7515474FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EE486F-AE33-4DBB-AC4C-409A22CB04AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EE486F-AE33-4DBB-AC4C-409A22CB04AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EE486F-AE33-4DBB-AC4C-409A22CB04AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EE486F-AE33-4DBB-AC4C-409A22CB04AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45425A58-2168-4B77-B428-853C67DE2C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45425A58-2168-4B77-B428-853C67DE2C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45425A58-2168-4B77-B428-853C67DE2C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45425A58-2168-4B77-B428-853C67DE2C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C480F4AD-AA25-4685-A728-36F7B9A26D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C480F4AD-AA25-4685-A728-36F7B9A26D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C480F4AD-AA25-4685-A728-36F7B9A26D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C480F4AD-AA25-4685-A728-36F7B9A26D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B51955-2FB7-47A4-A3D7-B9442CC290E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B51955-2FB7-47A4-A3D7-B9442CC290E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B51955-2FB7-47A4-A3D7-B9442CC290E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B51955-2FB7-47A4-A3D7-B9442CC290E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146E70AF-5FC2-4D2F-A007-49A188387204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146E70AF-5FC2-4D2F-A007-49A188387204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146E70AF-5FC2-4D2F-A007-49A188387204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146E70AF-5FC2-4D2F-A007-49A188387204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1919A9-C603-487B-95BC-7BC5E0D095F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1919A9-C603-487B-95BC-7BC5E0D095F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1919A9-C603-487B-95BC-7BC5E0D095F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1919A9-C603-487B-95BC-7BC5E0D095F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9E0875-9C4C-41BA-A4F7-EEB32B0D93DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9E0875-9C4C-41BA-A4F7-EEB32B0D93DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9E0875-9C4C-41BA-A4F7-EEB32B0D93DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9E0875-9C4C-41BA-A4F7-EEB32B0D93DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
