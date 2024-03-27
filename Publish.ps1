@@ -162,19 +162,19 @@ param (
     $UseScriptDirectory=$True,
 
     ## => User Config <= ## 
-    $ProjectPath = "P3R.bgm.MakotoMP3.battlethemes.Template.csproj",
-    $PackageName = "P3R.bgm.MakotoMP3.battlethemes",
+    $ProjectPath = "p3rpc.bgm.MDmp3.csproj",
+    $PackageName = "p3rpc.bgm.MDmp3",
     $PublishOutputDir = "Publish/ToUpload",
 
     ## => User: Delta Config
     # Pick one and configure settings below.
-    $MetadataFileName = "P3R.bgm.MakotoMP3.battlethemes.ReleaseMetadata.json",
+    $MetadataFileName = "p3rpc.bgm.MDmp3.ReleaseMetadata.json",
     $UseGitHubDelta = $False, # GitHub Releases
     $UseGameBananaDelta = $True,
     $UseNuGetDelta = $False,
 
     $GitHubUserName = "coleymoley98", # Name of the GitHub user where the mod is contained
-    $GitHubRepoName = "P3R.bgm.MakotoMP3.battle-themes", # Name of the GitHub repo where the mod is contained
+    $GitHubRepoName = "p3rpc.bgm.MDmp3", # Name of the GitHub repo where the mod is contained
     $GitHubFallbackPattern = "", # For migrating from legacy build script.
     $GitHubInheritVersionFromTag = $True, # Uses version determined from release tag as opposed to metadata file in latest release.
 

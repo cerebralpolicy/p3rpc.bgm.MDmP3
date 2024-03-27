@@ -3,13 +3,13 @@
  * to make it easier to upgrade to newer versions of the template.
 */
 
-using P3R.bgm.MakotoMP3.battlethemes.Template.Configuration;
-using P3R.bgm.MakotoMP3.battlethemes.Template.Template.Configuration;
+using p3rpc.bgm.MDmp3.Template.Configuration;
+using p3rpc.bgm.MDmp3.Template.Template.Configuration;
 using Reloaded.Hooks.ReloadedII.Interfaces;
 using Reloaded.Mod.Interfaces;
 using Reloaded.Mod.Interfaces.Internal;
 
-namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template
+namespace p3rpc.bgm.MDmp3.Template.Template
 {
     public class Startup : IMod
     {

@@ -1,20 +1,20 @@
 {
-  "ModId": "P3R.bgm.MakotoMP3.battle-themes",
+  "ModId": "p3rpc.bgm.MDmp3",
   "ModName": "P3R Makoto\u0027s Diegetic MP3 Player",
   "ModAuthor": "cerebralpolicy",
   "ModVersion": "0.6.0",
   "ModDescription": "Diegetic music for P3R.",
-  "ModDll": "P3R.bgm.MakotoMP3.battlethemes.Template.dll",
+  "ModDll": "p3rpc.bgm.MDmp3.Template.dll",
   "ModIcon": "Logo.png",
-  "ModR2RManagedDll32": "x86/P3R.bgm.MakotoMP3.battlethemes.Template.dll",
-  "ModR2RManagedDll64": "x64/P3R.bgm.MakotoMP3.battlethemes.Template.dll",
+  "ModR2RManagedDll32": "x86/p3rpc.bgm.MDmp3.Template.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.bgm.MDmp3.Template.dll",
   "ModNativeDll32": "",
   "ModNativeDll64": "",
   "Tags": [],
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "P3R.bgm.MakotoMP3.battle-themes.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "p3rpc.bgm.MDmp3.ReleaseMetadata.json",
   "PluginData": {
     "GameBananaDependencies": {
       "IdToConfigMap": {
@@ -105,7 +105,7 @@
     },
     "GitHubRelease": {
       "UserName": "coleymoley98",
-      "RepositoryName": "P3R.bgm.MakotoMP3.battle-themes",
+      "RepositoryName": "p3rpc.bgm.MDmp3",
       "UseReleaseTag": true,
       "AssetFileName": "Mod.zip"
     }

@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template.Configuration
+namespace p3rpc.bgm.MDmp3.Template.Template.Configuration
 {
     public class Configurable<TParentType> : IUpdatableConfigurable where TParentType : Configurable<TParentType>, new()
     {

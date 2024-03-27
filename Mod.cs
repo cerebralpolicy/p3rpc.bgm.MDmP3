@@ -1,11 +1,11 @@
-﻿using P3R.bgm.MakotoMP3.battlethemes.Template.Template;
-using P3R.bgm.MakotoMP3.battlethemes.Template.Template.Configuration;
-using BGME.BattleThemes.Config;
+﻿using p3rpc.bgm.MDmp3.Template.Template;
+using p3rpc.bgm.MDmp3.Template.Template.Configuration;
+using BGME.MDmp3.Config;
 using Reloaded.Hooks.ReloadedII.Interfaces;
 using Reloaded.Mod.Interfaces;
 using System.ComponentModel;
 
-namespace P3R.bgm.MakotoMP3.battlethemes.Template;
+namespace p3rpc.bgm.MDmp3.Template;
 
 public class Mod : ModBase
 {
@@ -17,7 +17,7 @@ public class Mod : ModBase
     private Config config;
     private readonly IModConfig modConfig;
 
-    private readonly ThemeConfig themeConfig;
+    private readonly PlaylistConfig themeConfig;
 
     public Mod(ModContext context)
     {

@@ -1,8 +1,8 @@
-﻿using P3R.bgm.MakotoMP3.battlethemes.Template.Configuration;
+﻿using p3rpc.bgm.MDmp3.Template.Configuration;
 using Reloaded.Mod.Interfaces;
 using IReloadedHooks = Reloaded.Hooks.ReloadedII.Interfaces.IReloadedHooks;
 
-namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template
+namespace p3rpc.bgm.MDmp3.Template.Template
 {
     /// <summary>
     /// Represents information passed in from the mod loader template to the implementing mod.

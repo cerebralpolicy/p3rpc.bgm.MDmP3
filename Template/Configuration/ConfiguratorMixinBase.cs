@@ -1,7 +1,7 @@
-﻿using P3R.bgm.MakotoMP3.battlethemes.Template.Configuration;
+﻿using p3rpc.bgm.MDmp3.Template.Configuration;
 using Reloaded.Mod.Interfaces;
 
-namespace P3R.bgm.MakotoMP3.battlethemes.Template.Template.Configuration
+namespace p3rpc.bgm.MDmp3.Template.Template.Configuration
 {
     /// <summary>
     /// Creates the various different configurations used by the mod.
