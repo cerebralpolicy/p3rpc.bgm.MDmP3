@@ -50,59 +50,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="MDmp3\music\boss\diegetic-ashes_divide-sword.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-chevelle-forfeit.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-chevelle-get_some.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-massive_attack-dissolved_girl.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-massive_attack-dissolved_girl_inst.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-rob_dougan-clubbed_to_death_2.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-rob_dougan-clubbed_to_death_kurayamino.hca" />
-    <Content Include="MDmp3\music\boss\diegetic-the_mayan_factor-warflower.hca" />
-    <Content Include="MDmp3\music\character\diegetic-ashes_divide-forever_can_be.hca" />
-    <Content Include="MDmp3\music\character\diegetic-flyleaf-all_around_me.hca" />
-    <Content Include="MDmp3\music\character\diegetic-flyleaf-im_so_sick.hca" />
-    <Content Include="MDmp3\music\common\diegetic-chevelle-another_know_it_all.hca" />
-    <Content Include="MDmp3\music\common\diegetic-chevelle-antisaint.hca" />
-    <Content Include="MDmp3\music\common\diegetic-chevelle-midnight_to_midnight.hca" />
-    <Content Include="MDmp3\music\common\diegetic-chevelle-the_fad.hca" />
-    <Content Include="MDmp3\music\common\diegetic-chevelle-this_circus.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-counterfeits_and_lies.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-doors.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-final_destination.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-just_tonight.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-my_addiction.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-painting.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-someday.hca" />
-    <Content Include="MDmp3\music\common\diegetic-coldrain-survive.hca" />
-    <Content Include="MDmp3\music\common\diegetic-institute-bulletproof_skin.hca" />
-    <Content Include="MDmp3\music\common\diegetic-institute-the_art_of_walking.hca" />
-    <Content Include="MDmp3\music\common\diegetic-institute-when_animals_attack.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-cure_for_the_itch.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-dont_stay.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-figure_09.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-hit_the_floor.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-lying_from_you.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-nobodys_listening.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-one_step_closer.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-papercut.hca" />
-    <Content Include="MDmp3\music\common\diegetic-linkin_park-points_of_authority.hca" />
-    <Content Include="MDmp3\music\common\diegetic-papa_roach-do_or_die.hca" />
-    <Content Include="MDmp3\music\common\diegetic-papa_roach-getting_away_with_murder.hca" />
-    <Content Include="MDmp3\music\common\diegetic-papa_roach-life_is_a_bullet.hca" />
-    <Content Include="MDmp3\music\common\diegetic-papa_roach-she_loves_me_not.hca" />
-    <Content Include="MDmp3\music\common\diegetic-revis-spin.hca" />
-    <Content Include="MDmp3\music\common\diegetic-revis-straight_jacket_labels.hca" />
-    <Content Include="MDmp3\music\common\diegetic-revis-your_wall.hca" />
-    <Content Include="MDmp3\music\common\diegetic-saosin-changing.hca" />
-    <Content Include="MDmp3\music\common\diegetic-saosin-i_keep_my_secrets.hca" />
-    <Content Include="MDmp3\music\common\diegetic-saosin-seven_years.hca" />
-    <Content Include="MDmp3\music\common\diegetic-saosin-translating_the_name.hca" />
-    <Content Include="MDmp3\music\common\diegetic-three_days_grace-burn.hca" />
-    <Content Include="MDmp3\music\common\diegetic-three_days_grace-drown.hca" />
-    <Content Include="MDmp3\music\common\diegetic-three_days_grace-let_you_down.hca" />
-    <Content Include="MDmp3\music\common\diegetic-three_days_grace-scared.hca" />
-    <Content Include="MDmp3\music\menu\diegetic-ashes_divide-forever_can_be-MENU.hca" />
-    <Content Include="MDmp3\music\menu\diegetic-ashes_divide-sword-MENU.hca" />
     <Content Include="MDmp3\playlist\combat\battleTheme.playlist.pme">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -140,6 +87,9 @@
     <Content Include="BGME\**">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="MDmp3\Music\**\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   
   <ItemGroup>
@@ -148,7 +98,9 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\BGME.MDmp3\BGME.MDmp3.API.Config\BGME.MDmp3.Config.csproj" />
+    <ProjectReference Include="..\BGME.MDmp3\BGME.MDmp3.API.Config\BGME.MDmp3.Config.csproj">
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
   
   <ItemGroup>

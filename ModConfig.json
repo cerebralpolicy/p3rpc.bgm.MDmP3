@@ -4,10 +4,10 @@
   "ModAuthor": "cerebralpolicy",
   "ModVersion": "0.6.0",
   "ModDescription": "Diegetic music for P3R.",
-  "ModDll": "p3rpc.bgm.MDmp3.Template.dll",
+  "ModDll": "p3rpc.bgm.MDmp3.dll",
   "ModIcon": "Logo.png",
-  "ModR2RManagedDll32": "x86/p3rpc.bgm.MDmp3.Template.dll",
-  "ModR2RManagedDll64": "x64/p3rpc.bgm.MDmp3.Template.dll",
+  "ModR2RManagedDll32": "x86/p3rpc.bgm.MDmp3.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.bgm.MDmp3.dll",
   "ModNativeDll32": "",
   "ModNativeDll64": "",
   "Tags": [],
@@ -18,13 +18,6 @@
   "PluginData": {
     "GameBananaDependencies": {
       "IdToConfigMap": {
-        "BGME.BattleThemes": {
-          "Config": {
-            "ItemType": "Mod",
-            "ItemId": 488707
-          },
-          "ReleaseMetadataName": "BGME.BattleThemes.ReleaseMetadata.json"
-        },
         "p3rpc.essentials": {
           "Config": {
             "ItemType": "Mod",
@@ -112,7 +105,7 @@
   },
   "IsUniversalMod": false,
   "ModDependencies": [
-    "BGME.BattleThemes",
+    "BGME.MDmp3",
     "p3rpc.essentials"
   ],
   "OptionalDependencies": [],

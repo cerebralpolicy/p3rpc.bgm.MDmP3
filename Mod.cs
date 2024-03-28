@@ -87,7 +87,7 @@ public class Config : Configurable<Config>
     [DefaultValue(true)]
     public bool MDmp3boss { get; set; } = true;
     [Category("MDmp3 Config")]
-    [DisplayName("Diegetic Special Themes")]
+    [DisplayName("Diegetic Menu Themes")]
     [Description("Curated contextual tracks.")]
     [DefaultValue(true)]
     public bool MDmp3menu { get; set; } = true;

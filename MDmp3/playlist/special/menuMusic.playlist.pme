@@ -1,7 +1,3 @@
-﻿// MENU REPLACERS
-const diegetic_ngplus_menu_bgm = diegetic-ashes_divide-forever_can_be-MENU
-const diegetic_regular_menu_bgm = diegetic-ashes_divide-sword-MENU
-        
-global_bgm[98]:
+﻿global_bgm[98]:
     music = diegetic_ngplus_menu_bgm
 end
