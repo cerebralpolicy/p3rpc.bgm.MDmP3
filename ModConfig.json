@@ -2,7 +2,7 @@
   "ModId": "p3rpc.bgm.MDmp3",
   "ModName": "P3R Makoto\u0027s Diegetic MP3 Player",
   "ModAuthor": "cerebralpolicy",
-  "ModVersion": "0.6.1",
+  "ModVersion": "0.7.0",
   "ModDescription": "Diegetic music for P3R.",
   "ModDll": "p3rpc.bgm.MDmp3.dll",
   "ModIcon": "MDmp3_Square.png",
@@ -109,6 +109,6 @@
     "p3rpc.essentials"
   ],
   "OptionalDependencies": [],
-  "SupportedAppId": [ "p5r.exe", "p4g.exe", "p3p.exe", "p3r.exe" ],
+  "SupportedAppId": [ "p3r.exe" ],
   "ProjectUrl": ""
 }

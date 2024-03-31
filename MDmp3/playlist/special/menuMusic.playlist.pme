@@ -1,3 +1,6 @@
 ﻿global_bgm[98]:
     music = diegetic_ngplus_menu_bgm
 end
+global_bgm[1102]:
+    music = diegetic_regular_menu_bgm
+end
