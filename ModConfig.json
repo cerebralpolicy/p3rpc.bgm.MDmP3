@@ -31,6 +31,13 @@
             "ItemId": 477399
           },
           "ReleaseMetadataName": "BGME.Framework.API.ReleaseMetadata.json"
+        },
+        "BGME.MDmp3": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 500981
+          },
+          "ReleaseMetadataName": "BGME.MDmp3.ReleaseMetadata.json"
         }
       }
     },
