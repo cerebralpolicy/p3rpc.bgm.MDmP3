@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MDMP3db>
+	<generated>08-Jul-2024 5:00:30 PM</generated>
+	<songs>
+		<songMetadata>
+			<filename>diegetic-10_years-actions_motives</filename>
+			<title>Actions &amp; Motives</title>
+			<artist>10 Years</artist>
+			<album>Division</album>
+			<genres>Alternative Rock</genres>
+			<released>2008-05-15</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-all_your_lies</filename>
+			<title>All Your Lies</title>
+			<artist>10 Years</artist>
+			<album>Division</album>
+			<genres>Alternative Rock</genres>
+			<released>2008-05-15</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-cast_it_out</filename>
+			<title>Cast It Out</title>
+			<artist>10 Years</artist>
+			<album>The Autumn Effect</album>
+			<genres>Alternative Rock/Post Rock</genres>
+			<released>2005-08-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-chasing_the_rapture</filename>
+			<title>Chasing The Rapture</title>
+			<artist>10 Years</artist>
+			<album>Feeding The Wolves</album>
+			<genres>Hard Rock</genres>
+			<released>2010-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-fix_me</filename>
+			<title>Fix Me</title>
+			<artist>10 Years</artist>
+			<album>Feeding The Wolves</album>
+			<genres>Hard Rock</genres>
+			<released>2010-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-half_life</filename>
+			<title>Half Life</title>
+			<artist>10 Years</artist>
+			<album>The Autumn Effect</album>
+			<genres>Alternative Rock/Post Rock</genres>
+			<released>2005-08-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-paralyzing_kings</filename>
+			<title>Paralyzing Kings</title>
+			<artist>10 Years</artist>
+			<album>The Autumn Effect</album>
+			<genres>Alternative Rock/Post Rock</genres>
+			<released>2005-08-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-silhouette_of_a_life</filename>
+			<title>Silhouette Of A Life</title>
+			<artist>10 Years</artist>
+			<album>Killing All That Holds You</album>
+			<genres>Alternative Metal</genres>
+			<released>2004-10-18</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-the_recipe</filename>
+			<title>The Recipe</title>
+			<artist>10 Years</artist>
+			<album>The Autumn Effect</album>
+			<genres>Alternative Rock/Post Rock</genres>
+			<released>2005-08-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-10_years-the_wicked_ones</filename>
+			<title>The Wicked Ones</title>
+			<artist>10 Years</artist>
+			<album>Feeding The Wolves</album>
+			<genres>Hard Rock</genres>
+			<released>2010-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-adema-barricades_in_time</filename>
+			<title>Barricades In Time</title>
+			<artist>Adema</artist>
+			<album>Planets</album>
+			<genres>Nu Metal</genres>
+			<released>2005-04-05</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-adema-co_dependent</filename>
+			<title>Co-Dependent</title>
+			<artist>Adema</artist>
+			<album>Unstable</album>
+			<genres>Nu Metal</genres>
+			<released>2003-09-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-adema-giving_in</filename>
+			<title>Giving In</title>
+			<artist>Adema</artist>
+			<album>Adema</album>
+			<genres>Hard Rock/Nu Metal</genres>
+			<released>2001-11-21</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-adema-refusing_consciousness</filename>
+			<title>Refusing Consciousness</title>
+			<artist>Adema</artist>
+			<album>Planets</album>
+			<genres>Nu Metal</genres>
+			<released>2005-04-05</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-adema-unstable</filename>
+			<title>Unstable</title>
+			<artist>Adema</artist>
+			<album>Unstable</album>
+			<genres>Nu Metal</genres>
+			<released>2003-09-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-alexisonfire-born_and_raised</filename>
+			<title>Born And Raised</title>
+			<artist>Alexisonfire</artist>
+			<album>Old Crows / Young Cardinals</album>
+			<genres>Alternative Rock/Hardcore</genres>
+			<released>2009-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-alexisonfire-rough_hands</filename>
+			<title>Rough Hands</title>
+			<artist>Alexisonfire</artist>
+			<album>Crisis</album>
+			<genres>Alternative Rock/Hardcore/Punk</genres>
+			<released>2006-08-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-alexisonfire-the_northern</filename>
+			<title>The Northern</title>
+			<artist>Alexisonfire</artist>
+			<album>Old Crows / Young Cardinals</album>
+			<genres>Alternative Rock/Hardcore</genres>
+			<released>2009-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-alexisonfire-this_could_be_anywhere_in_the_world</filename>
+			<title>This Could Be Anywhere In The World</title>
+			<artist>Alexisonfire</artist>
+			<album>Crisis</album>
+			<genres>Alternative Rock/Hardcore/Punk</genres>
+			<released>2006-08-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-alexisonfire-young_cardinals</filename>
+			<title>Young Cardinals</title>
+			<artist>Alexisonfire</artist>
+			<album>Old Crows / Young Cardinals</album>
+			<genres>Alternative Rock/Hardcore</genres>
+			<released>2009-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Ashes_Divide-Forever_Can_Be</filename>
+			<title>Forever Can Be</title>
+			<artist>Ashes Divide</artist>
+			<album>Keep Telling Myself It&apos;s Alright</album>
+			<genres>Alternative Rock</genres>
+			<released>2008-04-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Ashes_Divide-Sword</filename>
+			<title>Sword</title>
+			<artist>Ashes Divide</artist>
+			<album>Keep Telling Myself It&apos;s Alright</album>
+			<genres>Alternative Rock</genres>
+			<released>2008-04-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-burn_the_evidence</filename>
+			<title>Burn The Evidence</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent II</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2006-06-26</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-devil_in_a_midnight_mass</filename>
+			<title>Devil In A Midnight Mass</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent II</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2006-06-26</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-devil_on_my_shoulder</filename>
+			<title>Devil On My Shoulder</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent III</album>
+			<genres>Alternative Rock/Pop Punk</genres>
+			<released>2009-07-04</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-line_and_sinker</filename>
+			<title>Line &amp; Sinker</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2003-09-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-prisoners_of_today</filename>
+			<title>Prisoners Of Today</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2003-09-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-this_is_how_it_goes</filename>
+			<title>This Is How It Goes</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2003-09-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-turn_your_back</filename>
+			<title>Turn Your Back</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent III</album>
+			<genres>Alternative Rock/Pop Punk</genres>
+			<released>2009-07-04</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-billy_talent-voices_of_violence</filename>
+			<title>Voices Of Violence</title>
+			<artist>Billy Talent</artist>
+			<album>Billy Talent</album>
+			<genres>Alternative Rock/Punk</genres>
+			<released>2003-09-16</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-Another_Know_It_All</filename>
+			<title>Another Know It All</title>
+			<artist>Chevelle</artist>
+			<album>This Type Of Thinking (Could Do Us In)</album>
+			<genres>Alternative Rock/Nu Metal</genres>
+			<released>2005-01-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-Antisaint</filename>
+			<title>Antisaint</title>
+			<artist>Chevelle</artist>
+			<album>Vena Sera</album>
+			<genres>Alternative Metal</genres>
+			<released>2007-04-03</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-chevelle-breach_birth</filename>
+			<title>Breach Birth</title>
+			<artist>Chevelle</artist>
+			<album>This Type Of Thinking (Could Do Us In)</album>
+			<genres>Alternative Rock/Nu Metal</genres>
+			<released>2005-01-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-chevelle-dont_fake_this</filename>
+			<title>Don&apos;t Fake This</title>
+			<artist>Chevelle</artist>
+			<album>Wonder What&apos;s Next</album>
+			<genres>Alternative Metal</genres>
+			<released>2002-10-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-Forfeit</filename>
+			<title>Forfeit</title>
+			<artist>Chevelle</artist>
+			<album>Wonder What&apos;s Next</album>
+			<genres>Alternative Metal</genres>
+			<released>2002-10-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-GetSome</filename>
+			<title>Get Some</title>
+			<artist>Chevelle</artist>
+			<album>This Type Of Thinking (Could Do Us In)</album>
+			<genres>Alternative Rock/Nu Metal</genres>
+			<released>2005-01-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-chevelle-grab_thy_hand</filename>
+			<title>Grab Thy Hand</title>
+			<artist>Chevelle</artist>
+			<album>Wonder What&apos;s Next</album>
+			<genres>Alternative Metal</genres>
+			<released>2002-10-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-Midnight_to_Midnight</filename>
+			<title>Midnight To Midnight</title>
+			<artist>Chevelle</artist>
+			<album>Vena Sera</album>
+			<genres>Alternative Metal</genres>
+			<released>2007-04-03</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-The_Fad</filename>
+			<title>The Fad</title>
+			<artist>Chevelle</artist>
+			<album>Vena Sera</album>
+			<genres>Alternative Metal</genres>
+			<released>2007-04-03</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Chevelle-This_Circus</filename>
+			<title>This Circus</title>
+			<artist>Chevelle</artist>
+			<album>Sci-Fi Crimes</album>
+			<genres>Alternative Metal/Nu Metal</genres>
+			<released>2009-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-counterfeits_and_lies</filename>
+			<title>Counterfeits &amp; Lies</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-doors</filename>
+			<title>Doors</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-final_destination</filename>
+			<title>Final Destination</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-just_tonight</filename>
+			<title>Just Tonight</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-my_addiction</filename>
+			<title>My Addiction</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-painting</filename>
+			<title>Painting</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-someday</filename>
+			<title>Someday</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-coldrain-survive</filename>
+			<title>Survive</title>
+			<artist>coldrain</artist>
+			<album>Final Destination</album>
+			<genres>Alternative Rock/Post-Hardcore</genres>
+			<released>2009-10-28</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-deftones-anniversary</filename>
+			<title>Anniversary Of An Uninteresting Event</title>
+			<artist>Deftones</artist>
+			<album>Deftones</album>
+			<genres>Alternative Metal</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-deftones-deathblow</filename>
+			<title>Deathblow</title>
+			<artist>Deftones</artist>
+			<album>Deftones</album>
+			<genres>Alternative Metal</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-deftones-knife_prty</filename>
+			<title>Knife Prty</title>
+			<artist>Deftones</artist>
+			<album>White Pony</album>
+			<genres>Experimental/Nu Metal/Alternative Metal</genres>
+			<released>2000-06-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-deftones-minerva</filename>
+			<title>Minerva</title>
+			<artist>Deftones</artist>
+			<album>Deftones</album>
+			<genres>Alternative Metal</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-again</filename>
+			<title>Again</title>
+			<artist>Earshot</artist>
+			<album>Two</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-06-29</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-goodbye</filename>
+			<title>Goodbye</title>
+			<artist>Earshot</artist>
+			<album>Two</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-06-29</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-headstrong</filename>
+			<title>Headstrong</title>
+			<artist>Earshot</artist>
+			<album>Letting Go</album>
+			<genres>Alternative Metal/Post-Grunge/Nu Metal</genres>
+			<released>2002-05-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-not_afraid</filename>
+			<title>Not Afraid</title>
+			<artist>Earshot</artist>
+			<album>Letting Go</album>
+			<genres>Alternative Metal/Post-Grunge/Nu Metal</genres>
+			<released>2002-05-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-ordinary_girl</filename>
+			<title>Ordinary Girl</title>
+			<artist>Earshot</artist>
+			<album>Letting Go</album>
+			<genres>Alternative Metal/Post-Grunge/Nu Metal</genres>
+			<released>2002-05-07</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-someone</filename>
+			<title>Someone</title>
+			<artist>Earshot</artist>
+			<album>Two</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-06-29</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-earshot-wait</filename>
+			<title>Wait</title>
+			<artist>Earshot</artist>
+			<album>Two</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-06-29</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Flyleaf-All_Around_Me</filename>
+			<title>All Around Me</title>
+			<artist>Flyleaf</artist>
+			<album>Flyleaf</album>
+			<genres>Alternative Rock/Heavy Metal/Hard Rock/Nu Metal</genres>
+			<released>2005-10-04</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Flyleaf-Im_So_Sick</filename>
+			<title>I&apos;m So Sick</title>
+			<artist>Flyleaf</artist>
+			<album>Flyleaf</album>
+			<genres>Alternative Rock/Heavy Metal/Hard Rock/Nu Metal</genres>
+			<released>2005-10-04</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-aimai_na_mikaku</filename>
+			<title>Aimai Na Mikaku</title>
+			<artist>Girugamesh</artist>
+			<album>13&apos;s Reborn</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2007-05-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-asking_why</filename>
+			<title>Asking Why</title>
+			<artist>Girugamesh</artist>
+			<album>Music</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2008-11-05</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-barricade</filename>
+			<title>Barricade</title>
+			<artist>Girugamesh</artist>
+			<album>Girugamesh</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2007-12-26</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-break_down</filename>
+			<title>Break Down</title>
+			<artist>Girugamesh</artist>
+			<album>Music</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2008-11-05</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-domino</filename>
+			<title>Domino</title>
+			<artist>Girugamesh</artist>
+			<album>Girugamesh</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2007-12-26</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-evolution</filename>
+			<title>Evolution</title>
+			<artist>Girugamesh</artist>
+			<album>Music</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2008-11-05</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-robust_conviction</filename>
+			<title>Robust Conviction</title>
+			<artist>Girugamesh</artist>
+			<album>13&apos;s Reborn</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2007-05-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-girugamesh-shoujo_a</filename>
+			<title>&apos;Shoujo A&apos;</title>
+			<artist>Girugamesh</artist>
+			<album>Girugamesh</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2007-12-26</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-hurt-loaded</filename>
+			<title>Loded</title>
+			<artist>Hurt</artist>
+			<album>Vol. II</album>
+			<genres>Alternative Rock/Prog Rock/Hard Rock</genres>
+			<released>2007-09-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-hurt-ten_ton_brick</filename>
+			<title>Ten Ton Brick</title>
+			<artist>Hurt</artist>
+			<album>Vol. II</album>
+			<genres>Alternative Rock/Prog Rock/Hard Rock</genres>
+			<released>2007-09-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-hurt-unkind</filename>
+			<title>Unkind</title>
+			<artist>Hurt</artist>
+			<album>Vol. 1</album>
+			<genres>Emo/Grunge/Prog Rock/Nu Metal</genres>
+			<released>2006-03-21</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Institute-Bulletproof_Skin</filename>
+			<title>Bullet-Proof Skin</title>
+			<artist>Institute</artist>
+			<album>Distort Yourself</album>
+			<genres>Alternative Rock</genres>
+			<released>2005-09-09</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Institute-The_Art_of_Walking</filename>
+			<title>The Art Of Walking</title>
+			<artist>Institute</artist>
+			<album>Distort Yourself</album>
+			<genres>Alternative Rock</genres>
+			<released>2005-09-09</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Institute-When_Animals_Attack</filename>
+			<title>When Animals Attack</title>
+			<artist>Institute</artist>
+			<album>Distort Yourself</album>
+			<genres>Alternative Rock</genres>
+			<released>2005-09-09</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-Linkin_Park-Cure_For_the_Itch</filename>
+			<title>Cure For The Itch</title>
+			<artist>Linkin Park</artist>
+			<album>Hybrid Theory</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2000-10-24</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Linkin_Park-Dont_Stay</filename>
+			<title>Don&apos;t Stay</title>
+			<artist>Linkin Park</artist>
+			<album>Meteora</album>
+			<genres>Nu Metal</genres>
+			<released>2003-03-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Linkin_Park-Figure_09</filename>
+			<title>Figure.09</title>
+			<artist>Linkin Park</artist>
+			<album>Meteora</album>
+			<genres>Nu Metal</genres>
+			<released>2003-03-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Linkin_Park-Hit_the_Floor</filename>
+			<title>Hit The Floor</title>
+			<artist>Linkin Park</artist>
+			<album>Meteora</album>
+			<genres>Nu Metal</genres>
+			<released>2003-03-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Linkin_Park-Lying_From_You</filename>
+			<title>Lying From You</title>
+			<artist>Linkin Park</artist>
+			<album>Meteora</album>
+			<genres>Nu Metal</genres>
+			<released>2003-03-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Linkin_Park-Nobodys_Listening</filename>
+			<title>Nobody&apos;s Listening</title>
+			<artist>Linkin Park</artist>
+			<album>Meteora</album>
+			<genres>Nu Metal</genres>
+			<released>2003-03-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-Linkin_Park-One_Step_Closer</filename>
+			<title>One Step Closer</title>
+			<artist>Linkin Park</artist>
+			<album>Hybrid Theory</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2000-10-24</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-Linkin_Park-Papercut</filename>
+			<title>Papercut</title>
+			<artist>Linkin Park</artist>
+			<album>Hybrid Theory</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2000-10-24</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-Linkin_Park-Points_Of_Authority</filename>
+			<title>Points Of Authority</title>
+			<artist>Linkin Park</artist>
+			<album>Hybrid Theory</album>
+			<genres>Nu Metal/Alternative Rock</genres>
+			<released>2000-10-24</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-massive_attack-dissolved_girl</filename>
+			<title>Dissolved Girl</title>
+			<artist>Massive Attack</artist>
+			<album>Mezzanine</album>
+			<genres>Leftfield/Trip Hop/Downtempo</genres>
+			<released>1998-04-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-massive_attack-dissolved_girl_inst</filename>
+			<title>Dissolved Girl (Inst.)</title>
+			<artist>Massive Attack</artist>
+			<album>Mezzanine</album>
+			<genres>Leftfield/Trip Hop/Downtempo</genres>
+			<released>1998-04-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Papa_Roach-Do_Or_Die</filename>
+			<title>Do Or Die</title>
+			<artist>Papa Roach</artist>
+			<album>Getting Away With Murder</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Papa_Roach-Getting_Away_With_Murder</filename>
+			<title>Getting Away With Murder</title>
+			<artist>Papa Roach</artist>
+			<album>Getting Away With Murder</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2004-08-31</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Papa_Roach-Life_Is_A_Bullet</filename>
+			<title>Life Is A Bullet</title>
+			<artist>Papa Roach</artist>
+			<album>Lovehatetragedy</album>
+			<genres>Hard Rock/Nu Metal</genres>
+			<released>2002-06-18</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Papa_Roach-She_Loves_Me_Not</filename>
+			<title>She Loves Me Not</title>
+			<artist>Papa Roach</artist>
+			<album>Lovehatetragedy</album>
+			<genres>Hard Rock/Nu Metal</genres>
+			<released>2002-06-18</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Papa_Roach-Thrown_Away</filename>
+			<title>Thrown Away</title>
+			<artist>Papa Roach</artist>
+			<album>Infest</album>
+			<genres>Alternative Rock/Nu Metal</genres>
+			<released>2000-04-25</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Revis-Spin</filename>
+			<title>Spin</title>
+			<artist>Revis</artist>
+			<album>Places For Breathing</album>
+			<genres>Alternative Rock/Grunge</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Revis-Straight_Jacket_Labels</filename>
+			<title>Straight Jacket Label</title>
+			<artist>Revis</artist>
+			<album>Places For Breathing</album>
+			<genres>Alternative Rock/Grunge</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Revis-Your_Wall</filename>
+			<title>Your Wall</title>
+			<artist>Revis</artist>
+			<album>Places For Breathing</album>
+			<genres>Alternative Rock/Grunge</genres>
+			<released>2003-05-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-rob_dougan-clubbed_to_death_2</filename>
+			<title>Clubbed To Death 2</title>
+			<artist>Rob Dougan</artist>
+			<album>Furious Angels</album>
+			<genres>Modern Classical/Trip Hop</genres>
+			<released>2002-07-01</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-rob_dougan-clubbed_to_death_kurayamino</filename>
+			<title>Clubbed To Death (Kurayamino Variation)</title>
+			<artist>Rob Dougan</artist>
+			<album>Furious Angels</album>
+			<genres>Modern Classical/Trip Hop</genres>
+			<released>2002-07-01</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Saosin-Changing</filename>
+			<title>Changing</title>
+			<artist>Saosin</artist>
+			<album>In Search Of Solid Ground</album>
+			<genres>Alternative Rock/Emo</genres>
+			<released>2009-09-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Saosin-I_Keep_My_Secrets</filename>
+			<title>I Keep My Secrets Safe</title>
+			<artist>Saosin</artist>
+			<album>In Search Of Solid Ground</album>
+			<genres>Alternative Rock/Emo</genres>
+			<released>2009-09-08</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Saosin-Seven_Years</filename>
+			<title>Seven Years</title>
+			<artist>Saosin</artist>
+			<album>Translating The Name</album>
+			<genres>Emo/Post-Hardcore</genres>
+			<released>2003-06-17</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Saosin-Translating_The_Name</filename>
+			<title>Translating The Name</title>
+			<artist>Saosin</artist>
+			<album>Translating The Name</album>
+			<genres>Emo/Post-Hardcore</genres>
+			<released>2003-06-17</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_butterfly_effect-a_slow_descent</filename>
+			<title>A Slow Descent</title>
+			<artist>The Butterfly Effect</artist>
+			<album>Imago</album>
+			<genres>Alternative Rock/Prog Rock</genres>
+			<released>2006-06-17</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_butterfly_effect-black_lung</filename>
+			<title>Black Lung</title>
+			<artist>The Butterfly Effect</artist>
+			<album>The Butterfly Effect</album>
+			<genres>Alternative Rock/Nu Metal</genres>
+			<released>2002-06-24</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_butterfly_effect-in_these_hands</filename>
+			<title>In These Hands</title>
+			<artist>The Butterfly Effect</artist>
+			<album>Final Conversation Of Kings</album>
+			<genres>Alternative Rock/Prog Rock</genres>
+			<released>2008-09-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_butterfly_effect-reach</filename>
+			<title>Reach</title>
+			<artist>The Butterfly Effect</artist>
+			<album>Imago</album>
+			<genres>Alternative Rock/Prog Rock</genres>
+			<released>2006-06-17</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_mayan_factor-hopi_elders</filename>
+			<title>Hopi Elders</title>
+			<artist>Mayan Factor, The</artist>
+			<album>44</album>
+			<genres>Prog Rock</genres>
+			<released>2005-06-20</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>diegetic-the_mayan_factor-warflower</filename>
+			<title>Warflower</title>
+			<artist>Mayan Factor, The</artist>
+			<album>In Lake &apos;Ch</album>
+			<genres>Alternative Rock/Prog Rock</genres>
+			<released>2003-08-19</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Three_Days_Grace-Burn</filename>
+			<title>Burn</title>
+			<artist>Three Days Grace</artist>
+			<album>Three Days Grace</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2003-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Three_Days_Grace-Drown</filename>
+			<title>Drown</title>
+			<artist>Three Days Grace</artist>
+			<album>Three Days Grace</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2003-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Three_Days_Grace-Let_You_Down</filename>
+			<title>Let You Down</title>
+			<artist>Three Days Grace</artist>
+			<album>Three Days Grace</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2003-07-22</released>
+		</songMetadata>
+		<songMetadata>
+			<filename>Diegetic-Three_Days_Grace-Scared</filename>
+			<title>Scared</title>
+			<artist>Three Days Grace</artist>
+			<album>Three Days Grace</album>
+			<genres>Alternative Rock/Hard Rock</genres>
+			<released>2003-07-22</released>
+		</songMetadata>
+	</songs>
+</MDMP3db>

@@ -71,6 +71,9 @@
     <None Update="Logo.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
+    <None Update="MDmp3\Metadata\songDB.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="MDmp3_Square.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -97,6 +100,8 @@
   
   <ItemGroup>
     <Folder Include="MDmp3\playlist\overworld\" />
+    <Folder Include="Publish\Builds\NewFolder\" />
+    <Folder Include="Publish\Builds\LastVersion\" />
     <Folder Include="ue-atlus-script\" />
   </ItemGroup>
   

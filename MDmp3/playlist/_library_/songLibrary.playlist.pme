@@ -5,6 +5,8 @@ const diegetic_battle_pool = [
         diegetic-10_years-all_your_lies, diegetic-10_years-actions_motives, diegetic-10_years-cast_it_out, diegetic-10_years-chasing_the_rapture, diegetic-10_years-half_life, diegetic-10_years-paralyzing_kings, diegetic-10_years-the_recipe,
     // adema
         diegetic-adema-barricades_in_time, diegetic-adema-co_dependent, diegetic-adema-giving_in, diegetic-adema-refusing_consciousness, diegetic-adema-unstable,
+    // alexisonfire
+        diegetic-alexisonfire-born_and_raised, diegetic-alexisonfire-rough_hands, diegetic-alexisonfire-the_northern, diegetic-alexisonfire-this_could_be_anywhere_in_the_world, diegetic-alexisonfire-young_cardinals,
     // chevelle
         diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight, diegetic-chevelle-breach_birth, diegetic-chevelle-dont_fake_this, diegetic-chevelle-grab_thy_hand,
     // hurt
@@ -37,6 +39,8 @@ const diegetic_battle_pool = [
         diegetic-10_years-fix_me,
         // adema
         diegetic-adema-unstable,
+        // alexisonfire
+        diegetic-alexisonfire-born_and_raised,
         // chevelle - exclusive
         diegetic-chevelle-the_fad,
         diegetic-deftones-knife_prty,
@@ -63,6 +67,8 @@ const diegetic_disadvantage_pool = [
         diegetic-10_years-the_wicked_ones,
         // adema
         diegetic-adema-co_dependent,
+        // alexisonfire
+        diegetic-alexisonfire-rough_hands,
         // chevelle - exclusive
         diegetic-chevelle-this_circus,
         //hurt
@@ -93,6 +99,8 @@ const diegetic_exploration_bgm = [
         diegetic-10_years-all_your_lies, diegetic-10_years-actions_motives, diegetic-10_years-cast_it_out, diegetic-10_years-chasing_the_rapture, diegetic-10_years-fix_me, diegetic-10_years-half_life, diegetic-10_years-paralyzing_kings, diegetic-10_years-the_recipe, diegetic-10_years-the_wicked_ones,
         // adema
         diegetic-adema-barricades_in_time, diegetic-adema-co_dependent, diegetic-adema-giving_in, diegetic-adema-refusing_consciousness, diegetic-adema-unstable,
+        // alexisonfire
+        diegetic-alexisonfire-born_and_raised, diegetic-alexisonfire-rough_hands, diegetic-alexisonfire-the_northern, diegetic-alexisonfire-this_could_be_anywhere_in_the_world, diegetic-alexisonfire-young_cardinals,
         // chevelle
         diegetic-chevelle-another_know_it_all, diegetic-chevelle-antisaint, diegetic-chevelle-midnight_to_midnight, diegetic-chevelle-this_circus, diegetic-chevelle-breach_birth, diegetic-chevelle-dont_fake_this, diegetic-chevelle-grab_thy_hand,
         // deftones
@@ -138,7 +146,7 @@ const diegetic_victory_bgm = diegetic-linkin_park-cure_for_the_itch // Used for 
     const diegetic_yukari_theme_bgm = diegetic-flyleaf-all_around_me
     const diegetic_chidori_theme_bgm = diegetic-flyleaf-im_so_sick
     const diegetic_ngplus_menu_pool = [
-        diegetic-ashes_divide-forever_can_be0, diegetic-deftones-anniversary0, diegetic-10_years-silhoutte_of_a_life0
+        diegetic-ashes_divide-forever_can_be0, diegetic-deftones-anniversary0, diegetic-10_years-silhouette_of_a_life0
     ]
     const diegetic_ngplus_menu_bgm = random_song(diegetic_ngplus_menu_pool)
     const diegetic_regular_menu_pool = [
