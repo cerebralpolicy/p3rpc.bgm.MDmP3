@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <LangVersion>10.0</LangVersion>
@@ -38,6 +38,7 @@
     <None Remove="BGME\P3R\character\config.yaml" />
     <None Remove="BGME\P3R\common\config.yaml" />
     <None Remove="BGME\P3R\menu\config.yaml" />
+    <None Remove="MDmp3\Metadata\songDB.xml" />
     <None Remove="MDmp3\playlist\combat\battleTheme.playlist.pme" />
     <None Remove="MDmp3\playlist\exploration\explorationMusic.playlist.pme" />
     <None Remove="MDmp3\playlist\special\bossMusic.playlist.pme" />
@@ -50,6 +51,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="MDmp3\Metadata\songDB.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="MDmp3\playlist\combat\battleTheme.playlist.pme">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -68,12 +72,6 @@
     <Content Include="ModConfig.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Update="Logo.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="MDmp3\Metadata\songDB.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="MDmp3_Square.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -102,13 +100,10 @@
     <Folder Include="MDmp3\playlist\overworld\" />
     <Folder Include="Publish\Builds\NewFolder\" />
     <Folder Include="Publish\Builds\LastVersion\" />
-    <Folder Include="ue-atlus-script\" />
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\BGME.MDmp3\BGME.MDmp3.API.Config\BGME.MDmp3.Config.csproj">
-      <Private>True</Private>
-    </ProjectReference>
+    <ProjectReference Include="..\BGME.MDmp3\BGME.MDmp3.API.Config\BGME.MDmp3.Config.csproj" />
   </ItemGroup>
   
   <ItemGroup>
