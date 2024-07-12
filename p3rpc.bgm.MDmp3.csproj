@@ -38,7 +38,6 @@
     <None Remove="BGME\P3R\character\config.yaml" />
     <None Remove="BGME\P3R\common\config.yaml" />
     <None Remove="BGME\P3R\menu\config.yaml" />
-    <None Remove="MDmp3\Metadata\songDB.xml" />
     <None Remove="MDmp3\playlist\combat\battleTheme.playlist.pme" />
     <None Remove="MDmp3\playlist\exploration\explorationMusic.playlist.pme" />
     <None Remove="MDmp3\playlist\special\bossMusic.playlist.pme" />
@@ -51,7 +50,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="MDmp3\Metadata\songDB.xml">
+    <Content Include="MDmp3\songDB.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="MDmp3\playlist\combat\battleTheme.playlist.pme">
